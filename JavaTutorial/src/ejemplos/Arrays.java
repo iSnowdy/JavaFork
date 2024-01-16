@@ -16,6 +16,7 @@ public class Arrays {
 		char[] a1_caracteres1;
 		boolean[] a1_booleanos1;
 		String[] a1_cadenas1;
+		String[] arrayString; // new array made in an archive shared with Eclipse
 	    
 	    // Instanciamos (creamos) los objetos (arrays), su valor es null
 	    a1_enteros1 = new int[10]; //  contiene 10 valores base: 0
