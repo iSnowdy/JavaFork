@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Vectores {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { // This comment is only in GitHub. Not made in local Eclipse
 		
 		final int NUM = 5;
 		
