@@ -12,10 +12,13 @@ public class Arrays {
 		int k = 0; //contador de proposito general
 		
 		//Definimos los objetos 
+		String [] testing; // testing GitHub
 		int[] a1_enteros1;
 		char[] a1_caracteres1;
-		boolean[] a1_booleanos1;
+		boolean[] a1_booleanos1; // boolean
 		String[] a1_cadenas1;
+		
+		System.out.println("Change on the work branch. Now I will do a commit");
 	    
 	    // Instanciamos (creamos) los objetos (arrays), su valor es null
 	    a1_enteros1 = new int[10]; //  contiene 10 valores base: 0

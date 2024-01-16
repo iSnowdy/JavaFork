@@ -8,6 +8,8 @@ public class CadenasCaracteres {
 	public static void main(String[] args) {
 		// Operaciones con Cadenas de Caracters
 		
+		System.out.println("Hello this is master branch");
+		
 		String cadena1 = "";
 		String cadena2 = "";
 		Scanner entradachar = new Scanner(System.in);
