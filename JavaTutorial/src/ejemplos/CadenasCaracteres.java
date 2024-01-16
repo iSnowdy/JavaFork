@@ -8,7 +8,7 @@ public class CadenasCaracteres {
 	public static void main(String[] args) {
 		// Operaciones con Cadenas de Caracters
 		
-		System.out.println("Hello this is master branch");
+		System.out.println("We want WAARRR! (Git conflicts)");
 		
 		String cadena1 = "";
 		String cadena2 = "";
